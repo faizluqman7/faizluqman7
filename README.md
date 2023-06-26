@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @faizluqman7
 - 👀 I’m interested in software development and artificial intelligence/machine learning technologies
-- 🌱 I’m currently a gap year student, looking to study computer science undergraduate degree in 2022
--  Currently self-learning software development and Artificial Intelligence
+- 🌱 I’m currently a second year computer science undergraduate in the UK
 - 📫 How to reach me: faizluqman7@gmail.com
 
 <!---
