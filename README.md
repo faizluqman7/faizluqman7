@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faizluqman7
 - 👀 I’m interested in software development and artificial intelligence/machine learning technologies
-- 🌱 I’m currently a second year computer science undergraduate in the UK
+- 🌱 I’m currently a penultimate year computer science undergraduate in the UK
 - 📫 How to reach me: faizluqman7@gmail.com
 
 <!---
